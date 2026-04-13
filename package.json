@@ -1,0 +1,21 @@
+{
+  "name": "web-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/DanStark2/calculator-application#readme",
+  "bugs": {
+    "url": "https://github.com/DanStark2/calculator-application/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanStark2/calculator-application.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+    
+  }
+}
